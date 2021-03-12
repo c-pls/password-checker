@@ -1,2 +1,3 @@
 Clone this repository.
+
 In the terminal : python3 password-checker.py password1 password2 password3 .......
